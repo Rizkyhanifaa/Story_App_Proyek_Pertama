@@ -23,6 +23,6 @@
 
 ## 🚀 Cara Menjalankan Aplikasi
 1. Clone repository ini
-2. Ketik "npm install" pada terminal
-3. Lalu jalankan dengan "npm run start-dev"
+2. Ketik "npm install" pada terminal untuk memasang seluruh dependensi
+3. Lalu ketik  "npm run start-dev" untuk menjalankan server development menggunakan Webpack Dev Server.
   
